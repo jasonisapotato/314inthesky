@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The personal website of Jason, an eclectic collection based on science, technology
   and a little bit of 'I wonder what will happen'. 
 baseurl: "/314inthesky" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://314inthesky.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jason.govt
 github_username:  jasonisapotato
 
