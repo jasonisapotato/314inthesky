@@ -6,7 +6,7 @@ categories:
 ---
 This is a test. Hello everyone!
 
-![image is here](http://127.0.0.1:4000/314inthesky/assets/blazeit.jpg)
+![image is here](http://314inthesky/assets/blazeit.jpg)
 
 {% highlight ruby %}
 def print_hi(name)
